@@ -34,7 +34,8 @@ I build the data, systems, and process that mid-market B2B technology teams run 
 - Certification Prep: Salesforce Agentforce Specialist & HubSpot Marketing Hub.
 
 ## Recognition
-- **Salesforce All-Star Ranger:** 642 badges, 35 superbadges, ~300,000 points.
+- **Salesforce All-Star Ranger:**
+
 <!-- TH_Stats:start-->
 <!-- TH_Stats:end-->
 
