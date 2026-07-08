@@ -1,0 +1,22 @@
+name: Update Trailhead Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at midnight UTC every day
+  workflow_dispatch: # Adds a button to let you run it manually
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required so the action can save the updated README
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Update Trailhead Stats
+        uses: nabondance/trailhead-stats@v2
+        with:
+          trailhead-username: 'mwgreen'
+          display-file: 'README.md'
+          display-type: 'card'
