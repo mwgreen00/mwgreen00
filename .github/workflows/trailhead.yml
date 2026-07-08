@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v4
       
       - name: Update Trailhead Stats
-        uses: nabondance/trailhead-stats@v2
+        uses: nabondance/trailhead-stats@main
         with:
           trailhead-username: 'mwgreen'
           display-file: 'README.md'
