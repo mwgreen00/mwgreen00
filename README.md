@@ -36,8 +36,8 @@ I build the data, systems, and process that mid-market B2B technology teams run 
 ## Recognition
 - **Salesforce All-Star Ranger:**
 
-<!-- TH_Stats:start-->
-<!-- TH_Stats:end-->
+<!-- trailhead-stats:start -->
+<!-- trailhead-stats:end -->
 
 ## Links
 - **Portfolio:** https://mwgreen00.github.io
