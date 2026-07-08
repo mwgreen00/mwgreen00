@@ -31,10 +31,4 @@ Revenue Operations. I build the data, systems, and process that mid-market B2B t
 ## Links
 
 - Portfolio: https://mwgreen00.github.io
-- LinkedIn: https://www.linkedin.com/in/YOUR-HANDLE
-
-## GitHub activity
-
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwgreen00&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mwgreen00&layout=compact&theme=github_dark&hide_border=true)
+- LinkedIn: https://www.linkedin.com/in/mwgreen
