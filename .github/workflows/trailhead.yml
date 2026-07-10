@@ -9,14 +9,14 @@ jobs:
   update-stats:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Required so the action can save the updated README
+      contents: write 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
       
       - name: Update Trailhead Stats
-        uses: nabondance/trailhead-stats@main
+        uses: nabondance/trailhead-stats@v2 # Changed from @main to a stable release
         with:
           trailhead-username: 'mwgreen'
           display-file: 'README.md'
-          display-type: 'card'
+          display-type: 'card' # If this still fails, try changing it to 'text'
