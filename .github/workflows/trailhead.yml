@@ -15,8 +15,8 @@ jobs:
         uses: actions/checkout@v4
       
       - name: Update Trailhead Stats
-        uses: nabondance/trailhead-stats@v2 # Changed from @main to a stable release
+        uses: nabondance/trailhead-stats@v2.0.0 # Changed from @v2 to the exact release tag
         with:
           trailhead-username: 'mwgreen'
           display-file: 'README.md'
-          display-type: 'card' # If this still fails, try changing it to 'text'
+          display-type: 'card'
